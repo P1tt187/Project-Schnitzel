@@ -1,0 +1,10 @@
+var container, stats;
+var camera, scene, renderer, objects;
+var particleLight, pointLight;
+var dae, skin;
+var rotate = false;
+var rotaL = false;
+var lookat = true;
+var coords = true;
+var vertices = 0;
+var faces = 0;
